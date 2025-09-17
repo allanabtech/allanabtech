@@ -24,5 +24,4 @@ Learning AI, exploring cloud tools, and shipping small projects.
 
 ---
 
-![Quote](https://img.shields.io/badge/Quote-%22Commit,_push,_pray._Naming_things_is_harder.%22-orange?style=for-the-badge&logo=github)
-![Motivation](https://media.giphy.com/media/3o7TKtdz6yOQW0XJg4/giphy.gif)
+![Quote](https://img.shields.io/badge/%F0%9F%98%B5-Commit,_push,_pray._Naming_things_is_harder-orange?style=for-the-badge)
