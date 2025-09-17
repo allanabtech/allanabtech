@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Allan
 
 **Cloud & AI student** | Anime fan on breaks  
-`Commit, push, pray. naming things is harder.`
 
 ---
 
@@ -19,11 +18,10 @@
 ### 📊 GitHub Stats
 ![Alph's Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanabtech&show_icons=true&theme=tokyonight)
 
-![Quote](https://img.shields.io/badge/Quote-%22Commit,_push,_pray._Naming_things_is_harder.%22-orange?style=for-the-badge&logo=github)
 
 ### 🌱 Current Focus
 Learning AI, exploring cloud tools, and shipping small projects.
 
 ---
 
-> “Commit, push, pray. naming things is harder.
+![Quote](https://img.shields.io/badge/Quote-%22Commit,_push,_pray._Naming_things_is_harder.%22-orange?style=for-the-badge&logo=github)
