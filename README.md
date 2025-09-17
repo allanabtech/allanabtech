@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alph's Tech
+# Hi there 👋 I'm Allan
 
 **Cloud & AI student** | Anime fan on breaks  
 `Commit, push, pray. naming things is harder.`
@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?logo=google-cloud&logoColor=white)
+![IoT Projects](https://img.shields.io/badge/IoT-Projects-green?style=flat-square&logo=arduino)
 
 ### 🎌 Interests & Hobbies
 ![Anime](https://img.shields.io/badge/Anime-Darling_in_the_FranXX-red?style=flat-square&logo=github)
