@@ -23,10 +23,44 @@ I enjoy taking things apart to understand what happens beneath the abstraction l
 
 ### 💻 Technology Stack
 
-* **Languages:** `C` &bull; `C++` &bull; `Python` &bull; `Java` &bull; `Assembly (ARM/AVR)` &bull; `SQL` &bull; `TypeScript`
-* **Hardware & Systems:** `STM32` &bull; `Arduino` &bull; `GPIO` &bull; `I2C` &bull; `SPI` &bull; `UART` &bull; `Linux Shell`
-* **Cloud & DevOps:** `AWS (EC2, S3, SQS, Lambda)` &bull; `Docker` &bull; `Kubernetes` &bull; `CI/CD Pipelines`
-* **AI & Machine Learning:** `PyTorch` &bull; `OpenCV` &bull; `TensorFlow` &bull; `Quantization` &bull; `Kalman Filters`
+**Languages:**
+<br/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-%231E293B.svg?style=flat-square&logo=microchip&logoColor=white" />
+
+&nbsp;
+
+**Hardware & Systems:**
+<br/>
+<img src="https://img.shields.io/badge/STM32-%2303234B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bus_Protocols-I2C%20%7C%20SPI%20%7C%20UART-%231E293B.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/GPIO-Hardware_Logic-%231E293B.svg?style=flat-square" />
+
+&nbsp;
+
+**Cloud & DevOps:**
+<br/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-Pipelines-%23A78BFA.svg?style=flat-square&logo=git&logoColor=white" />
+
+&nbsp;
+
+**AI & Machine Learning:**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Optimization-Quantization-%231E293B.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/Filters-Kalman%20Filters-%231E293B.svg?style=flat-square" />
 
 ---
 
