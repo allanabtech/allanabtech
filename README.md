@@ -46,7 +46,7 @@
   <summary><h2>🧑‍💻 About Me</h2></summary>
   
   <a href="https://github.com/allanabtech">
-    <img align="right" src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/octocat.png" width="130" alt="Cyberpunk Developer Octocat" style="margin-left: 20px; border-radius: 50%;" />
+    <img align="right" src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/anime.jpg" width="260" alt="Anime Banner" style="margin-left: 20px; border-radius: 6px;" />
   </a>
 
   I am a Software Engineer based in Bangalore, India. I specialize in building at the intersection of hardware and software—developing custom embedded firmware, configuring cloud infrastructure, and deploying machine learning models to edge devices. 
