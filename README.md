@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- TITLE TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=FF4B72&center=true&vCenter=true&width=500&height=60&lines=ALLAN+ABRAHAM)](https://git.io/typing-svg)
+
+&nbsp;
+
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=FF4B72&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
 
