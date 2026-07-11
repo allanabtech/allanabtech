@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ANIMATED HIGH-TECH SVG HEADER -->
-<img src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/header.svg" width="100%" alt="Allan Abraham Animated Header" />
-
-&nbsp;
-
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=FF4B72&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
 
@@ -106,13 +101,7 @@
     </a>
   </p>
 
-  &nbsp;
 
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/streak?user=allanabtech&theme=react&background=0D080B&ring=FF4B72&fire=FF6B35&currStreakLabel=FF4B72&sideNums=E2E8F0&sideLabels=E2E8F0&stroke=0D080B&dates=E2E8F0" alt="Allan's Streak Stats" />
-    </a>
-  </p>
 
   &nbsp;
 
