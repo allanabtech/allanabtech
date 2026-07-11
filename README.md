@@ -1,10 +1,11 @@
 <div align="center">
 
-# `allan-abraham`
+<!-- ANIMATED HIGH-TECH SVG HEADER -->
+<img src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/header.svg" width="100%" alt="Allan Abraham Animated Header" />
 
-**Embedded Systems &bull; Cloud Infrastructure &bull; Computer Vision**
+&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
 
 [`portfolio`](https://allan-portfolio-five.vercel.app) &nbsp;&bull;&nbsp; [`linkedin`](https://www.linkedin.com/in/abrahamallan)
 
