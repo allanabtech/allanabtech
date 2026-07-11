@@ -13,7 +13,7 @@
 
 ---
 
-### 🧑‍💻 about me
+### 🧑‍💻 About Me
 
 I am a Software Engineer based in Bangalore, India. I specialize in building at the intersection of hardware and software—developing custom embedded firmware, configuring cloud infrastructure, and deploying machine learning models to edge devices. 
 
@@ -21,7 +21,7 @@ I enjoy taking things apart to understand what happens beneath the abstraction l
 
 ---
 
-### 💻 technology stack
+### 💻 Technology Stack
 
 * **Languages:** `C` &bull; `C++` &bull; `Python` &bull; `Java` &bull; `Assembly (ARM/AVR)` &bull; `SQL` &bull; `TypeScript`
 * **Hardware & Systems:** `STM32` &bull; `Arduino` &bull; `GPIO` &bull; `I2C` &bull; `SPI` &bull; `UART` &bull; `Linux Shell`
@@ -30,7 +30,7 @@ I enjoy taking things apart to understand what happens beneath the abstraction l
 
 ---
 
-### 🛠️ featured systems
+### 🛠️ Featured Systems
 
 <details open>
 <summary><b>1. Autonomous Navigation Bot (C++ / Arduino)</b></summary>
@@ -86,18 +86,18 @@ Mounted a camera and GPS module on a vehicle and built a pipeline that detects p
 
 ---
 
-### ⚠️ hardware incident report: INCIDENT-404
+### ⚠️ Hardware Incident Report: INCIDENT-404
 
 ```
 [SYSTEM ALERT]: Thermal runaway detected on VRM.
 [ROOT CAUSE]: GPU VRAM hardware upgrade (GDDR6 desoldering/resoldering) combined with a custom BIOS voltage override pushing power draw 40% past design limits.
-[IMPACT]: motherboard scorched, VRM MOSFETs backfed unregulated spike into CPU socket. The CPU did not survive.
+[IMPACT]: Motherboard scorched; VRM MOSFETs backfed unregulated spike into CPU socket. The CPU did not survive.
 [RESOLUTION]: Validating power phases using current sensing, testing VCore modifications in 10mV increments under a thermal camera. 'It might just work' is no longer an engineering methodology.
 ```
 
 ---
 
-### 📊 activity & contribution telemetry
+### 📊 Activity & Contribution Telemetry
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Mounted a camera and GPS module on a vehicle and built a pipeline that detects p
 &nbsp;
 
 <!-- STREAK_LINE_START -->
-**total contributions: 25 &nbsp;·&nbsp; current streak: 1 &nbsp;·&nbsp; longest streak: 2**
+**Total Contributions: 25 &nbsp;·&nbsp; Current Streak: 1 &nbsp;·&nbsp; Longest Streak: 2**
 <!-- STREAK_LINE_END -->
 
 &nbsp;

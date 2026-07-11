@@ -43,7 +43,7 @@ jobs:
                   current = data.get("currentStreak", {}).get("length", 0)
                   longest = data.get("longestStreak", {}).get("length", 0)
                   
-                  replacement = f"**total contributions: {total} &nbsp;·&nbsp; current streak: {current} &nbsp;·&nbsp; longest streak: {longest}**"
+                  replacement = f"**Total Contributions: {total} &nbsp;·&nbsp; Current Streak: {current} &nbsp;·&nbsp; Longest Streak: {longest}**"
                   
                   with open("README.md", "r", encoding="utf-8") as f:
                       content = f.read()
