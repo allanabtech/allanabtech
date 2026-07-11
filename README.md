@@ -54,6 +54,10 @@
   I enjoy taking things apart to understand what happens beneath the abstraction layer. Whether it's optimization of low-level ISR latencies, hardware modding, or debugging memory drift on microcontrollers, I build systems by understanding their limits.
   
   If you have a challenging problem or a system that needs optimizing, feel free to reach out via my portfolio or LinkedIn!
+  
+  <br/>
+  
+  > <sub>*P.S. I also love anime! 💫*</sub>
 </details>
 
 <details open> 
