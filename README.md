@@ -6,35 +6,35 @@
 &nbsp;
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=FF4B72&center=true&vCenter=true&width=450&lines=I2C+%2F+SPI+%2F+UART;AWS+Architecture;Quantized+ML+Inference;Kalman+Filter+Sensor+Fusion)](https://git.io/typing-svg)
 
 &nbsp;
 
-<!-- SOCIAL BUTTONS (DENVERCODER1 STYLE) -->
+<!-- SOCIAL BUTTONS -->
 <p align="center">
-  <a href="https://allan-portfolio-five.vercel.app" rel="nofollow">
-    <img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/qiXu7b2.png" />
+  <a href="https://allan-portfolio-five.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF4B72.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-       
-  <a href="https://www.linkedin.com/in/abrahamallan" rel="nofollow">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abrahamallan">
+    <img src="https://img.shields.io/badge/LinkedIn-%23D11A5B.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 &nbsp;
 
-<!-- QUICK STATS ROW (FOR-THE-BADGE STYLE) -->
+<!-- QUICK STATS ROW -->
 <p align="center">
   <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/allanabtech?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/allanabtech?color=FF4B72&style=for-the-badge&labelColor=D11A5B&logo=star&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/allanabtech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=allanabtech&style=for-the-badge&color=58a6ff" />
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=allanabtech&style=for-the-badge&color=ff4b72" />
   </a>
 </p>
 
@@ -97,13 +97,12 @@
   <summary><h2>📈 GitHub Statistics</h2></summary>
   
   <p align="center">
-    <!-- JONAH'S VERCEL INSTANCE FOR STABLE CARD DEPLOYMENT -->
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=allanabtech&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&hide_border=true" alt="Allan's GitHub Stats" />
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=allanabtech&show_icons=true&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's GitHub Stats" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=allanabtech&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&hide_border=true" alt="Allan's Top Languages" />
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=allanabtech&layout=compact&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's Top Languages" />
     </a>
   </p>
 
@@ -111,7 +110,7 @@
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/streak?user=allanabtech&theme=react&background=1F222E&ring=F85D7F&fire=FF6B35&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=1F222E&dates=FFFFFF" alt="Allan's Streak Stats" />
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/streak?user=allanabtech&theme=react&background=0D080B&ring=FF4B72&fire=FF6B35&currStreakLabel=FF4B72&sideNums=E2E8F0&sideLabels=E2E8F0&stroke=0D080B&dates=E2E8F0" alt="Allan's Streak Stats" />
     </a>
   </p>
 
