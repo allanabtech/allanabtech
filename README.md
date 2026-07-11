@@ -86,11 +86,6 @@ print("...don't touch it")
 
 <div align="center">
 
-<!-- STREAK METRICS -->
-<img src="https://streak-stats.demolab.com?user=allanabtech&theme=transparent&hide_border=true&ring=58A6FF&fire=FF6B35&stroke=58A6FF" width="85%" alt="Streak Stats" />
-
-&nbsp;
-
 <!-- REAL CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=allanabtech&theme=github-compact" width="100%" alt="Contribution Graph" />
 
@@ -102,6 +97,11 @@ print("...don't touch it")
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanabtech/allanabtech/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/allanabtech/allanabtech/output/github-snake.svg" width="100%" />
 </picture>
+
+&nbsp;
+
+<!-- STREAK METRICS -->
+<img src="https://streak-stats.demolab.com?user=allanabtech&theme=transparent&hide_border=true&ring=58A6FF&fire=FF6B35&stroke=58A6FF" width="85%" alt="Streak Stats" />
 
 &nbsp;
 
