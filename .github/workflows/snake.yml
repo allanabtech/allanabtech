@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Update Stats
 
 on:
   schedule:
@@ -16,7 +16,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +27,49 @@ jobs:
             dist/github-snake.svg?color_snake=green&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
             dist/github-snake-dark.svg?palette=github-dark&color_snake=green&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Push to output branch
+      - name: Update Contribution Streak Stats in README
+        run: |
+          python -c '
+          import urllib.request
+          import json
+          import re
+          
+          url = "https://streak-stats.demolab.com/?user=allanabtech&type=json"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          try:
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+                  total = data.get("totalContributions", 0)
+                  current = data.get("currentStreak", {}).get("length", 0)
+                  longest = data.get("longestStreak", {}).get("length", 0)
+                  
+                  replacement = f"**total contributions: {total} &nbsp;·&nbsp; current streak: {current} &nbsp;·&nbsp; longest streak: {longest}**"
+                  
+                  with open("README.md", "r", encoding="utf-8") as f:
+                      content = f.read()
+                      
+                  new_content = re.sub(
+                      r"(<!-- STREAK_LINE_START -->\n).*?(\n<!-- STREAK_LINE_END -->)",
+                      rf"\g<1>{replacement}\g<2>",
+                      content,
+                      flags=re.DOTALL
+                  )
+                  
+                  with open("README.md", "w", encoding="utf-8") as f:
+                      f.write(new_content)
+                  print("Stats parsed and injected successfully.")
+          except Exception as e:
+              print(f"Error: {e}")
+          '
+
+      - name: Commit and Push README changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily contribution stats [skip ci]" && git push)
+
+      - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

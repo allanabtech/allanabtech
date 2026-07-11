@@ -100,8 +100,9 @@ print("...don't touch it")
 
 &nbsp;
 
-<!-- STREAK METRICS -->
-<img src="https://streak-stats.demolab.com?user=allanabtech&theme=transparent&hide_border=true&ring=58A6FF&fire=FF6B35&stroke=58A6FF" width="85%" alt="Streak Stats" />
+<!-- STREAK_LINE_START -->
+**total contributions: 25 &nbsp;·&nbsp; current streak: 1 &nbsp;·&nbsp; longest streak: 2**
+<!-- STREAK_LINE_END -->
 
 &nbsp;
 
