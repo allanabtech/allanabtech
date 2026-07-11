@@ -57,7 +57,7 @@
   
   <br/>
   
-  > <sub>*P.S. I also love anime! 💫*</sub>
+  ## 🌸 **I also love anime!** ⚡
 </details>
 
 <details open> 
