@@ -68,44 +68,34 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Technology Stack</h2></summary>
   
-  ### 👨‍💻 Programming Languages
-  <p align="left">
-    <img src="https://img.shields.io/badge/C-03599C.svg?style=flat&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-9C033A.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-00758F.svg?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Assembly-525252.svg?style=flat&logo=microchip&logoColor=white" />
-  </p>
-
-  ### 🔌 Hardware & Systems
-  <p align="left">
-    <img src="https://img.shields.io/badge/STM32-03234B.svg?style=flat&logo=stmicroelectronics&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Bus_Protocols-I2C%20%7C%20SPI%20%7C%20UART-1E293B.svg?style=flat" />
-    <img src="https://img.shields.io/badge/GPIO-Hardware_Logic-1E293B.svg?style=flat" />
-  </p>
-
-  ### ☁️ DevOps & Cloud
-  <p align="left">
-    <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/CI/CD-Pipelines-A78BFA.svg?style=flat&logo=git&logoColor=white" />
-  </p>
-
-  ### 🤖 Machine Learning & AI
-  <p align="left">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/Optimization-Quantization-1E293B.svg?style=flat" />
-    <img src="https://img.shields.io/badge/Filters-Kalman_Filters-1E293B.svg?style=flat" />
-  </p>
+  <table width="100%">
+    <tr>
+      <td width="28%"><b>Programming Languages</b></td>
+      <td>
+        <code>C</code> &nbsp;•&nbsp; <code>C++</code> &nbsp;•&nbsp; <code>Python</code> &nbsp;•&nbsp; <code>Java</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>Assembly</code> &nbsp;•&nbsp; <code>SQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Hardware & Embedded Systems</b></td>
+      <td>
+        <code>STM32</code> &nbsp;•&nbsp; <code>Arduino</code> &nbsp;•&nbsp; <code>Linux Shell</code> &nbsp;•&nbsp; <code>I2C / SPI / UART</code> &nbsp;•&nbsp; <code>GPIO Control</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Cloud & DevOps Automation</b></td>
+      <td>
+        <code>AWS Infrastructure</code> &nbsp;•&nbsp; <code>Docker</code> &nbsp;•&nbsp; <code>Kubernetes</code> &nbsp;•&nbsp; <code>CI/CD Pipelines</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b>AI & Computer Vision</b></td>
+      <td>
+        <code>PyTorch</code> &nbsp;•&nbsp; <code>OpenCV</code> &nbsp;•&nbsp; <code>TensorFlow</code> &nbsp;•&nbsp; <code>Model Quantization</code> &nbsp;•&nbsp; <code>Kalman Filter Fusion</code>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details open>
