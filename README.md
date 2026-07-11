@@ -44,10 +44,6 @@
 
 <details open> 
   <summary><h2>🧑‍💻 About Me</h2></summary>
-  
-  <a href="https://github.com/allanabtech">
-    <img align="right" src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/anime.jpg" width="260" alt="Anime Banner" style="margin-left: 20px; border-radius: 6px;" />
-  </a>
 
   I am a Software Engineer based in Bangalore, India. I specialize in building at the intersection of hardware and software—developing custom embedded firmware, configuring cloud infrastructure, and deploying machine learning models to edge devices. 
 
@@ -57,7 +53,18 @@
   
   <br/>
   
-  ## 🌸 **I also love anime!** ⚡
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle">
+        <h2>🌸 <b>I also love anime!</b> ⚡</h2>
+      </td>
+      <td align="right" width="280">
+        <a href="https://github.com/allanabtech">
+          <img src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/anime.jpg" width="260" alt="Anime Banner" style="border-radius: 6px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details open> 
