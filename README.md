@@ -10,31 +10,29 @@
 
 &nbsp;
 
-<!-- SOCIAL BUTTONS -->
+<!-- SWYX-STYLE SINGLE-LINE NAVIGATION MENU -->
 <p align="center">
-  <a href="https://allan-portfolio-five.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF4B72.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abrahamallan">
-    <img src="https://img.shields.io/badge/LinkedIn-%23D11A5B.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://allan-portfolio-five.vercel.app">Portfolio Website</a> &nbsp;•&nbsp; 
+  <a href="https://www.linkedin.com/in/abrahamallan">LinkedIn</a> &nbsp;•&nbsp; 
+  <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">Total Stars</a> &nbsp;•&nbsp; 
+  <a href="https://github.com/allanabtech?tab=followers">Followers</a> &nbsp;•&nbsp; 
+  <a href="https://github.com/allanabtech">Profile Views</a>
 </p>
 
 &nbsp;
 
-<!-- QUICK STATS ROW -->
+<!-- QUICK METRICS ROW (CHERRY PINK BADGES) -->
 <p align="center">
   <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/allanabtech?color=FF4B72&style=for-the-badge&labelColor=D11A5B&logo=star&logoColor=white" />
+    <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/allanabtech?color=FF4B72&style=flat-square&labelColor=D11A5B&logo=star&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=person-add&label=Follow&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=allanabtech&style=for-the-badge&color=ff4b72" />
+    <img alt="views" src="https://komarev.com/ghpvc/?username=allanabtech&style=flat-square&color=ff4b72" />
   </a>
 </p>
 
@@ -47,9 +45,15 @@
 <details open> 
   <summary><h2>🧑‍💻 About Me</h2></summary>
   
+  <a href="https://github.com/allanabtech">
+    <img align="right" src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/octocat.png" width="130" alt="Cyberpunk Developer Octocat" style="margin-left: 20px; border-radius: 50%;" />
+  </a>
+
   I am a Software Engineer based in Bangalore, India. I specialize in building at the intersection of hardware and software—developing custom embedded firmware, configuring cloud infrastructure, and deploying machine learning models to edge devices. 
 
   I enjoy taking things apart to understand what happens beneath the abstraction layer. Whether it's optimization of low-level ISR latencies, hardware modding, or debugging memory drift on microcontrollers, I build systems by understanding their limits.
+  
+  If you have a challenging problem or a system that needs optimizing, feel free to reach out via my portfolio or LinkedIn!
 </details>
 
 <details open> 
@@ -105,8 +109,6 @@
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=allanabtech&layout=compact&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's Top Languages" />
     </a>
   </p>
-
-
 
   &nbsp;
 
