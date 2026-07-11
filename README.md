@@ -24,11 +24,11 @@
 <!-- QUICK METRICS ROW (CHERRY PINK BADGES) -->
 <p align="center">
   <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/allanabtech?color=FF4B72&style=flat-square&labelColor=D11A5B&logo=star&logoColor=white" />
+    <img alt="total stars" src="https://img.shields.io/github/stars/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=github&logoColor=white&label=Stars" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=person-add&label=Follow&logoColor=white" />
+    <img alt="followers" src="https://img.shields.io/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=github&logoColor=white&label=Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/allanabtech">
