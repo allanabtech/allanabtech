@@ -115,7 +115,7 @@
   
   <p align="center">
     <a href="https://github.com/allanabtech">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=allanabtech&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's Top Languages" />
+      <img src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/languages-3d.svg" alt="Allan's 3D Language Metrics" />
     </a>
   </p>
 </details>

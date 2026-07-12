@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280">
+  <style>
+    .bg { fill: #0D080B; rx: 12px; }
+    .grid-line { stroke: #3A1024; stroke-width: 0.5; opacity: 0.2; }
+    .label-text { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; fill: #E2E8F0; font-weight: 500; }
+    .percentage-text { font-family: 'Fira Code', monospace; font-size: 11px; fill: #FF8DA1; font-weight: 600; }
+    .title-text { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px; font-weight: 700; fill: #FF4B72; letter-spacing: 1px; }
+    
+    @keyframes growBar {
+      from { transform: scaleY(0); }
+      to { transform: scaleY(1); }
+    }
+    .bar-group {
+      transform-origin: bottom;
+      animation: growBar 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="600" height="280" class="bg" />
+
+  <text x="30" y="35" class="title-text">3D LANGUAGE METRICS</text>
+
+  <!-- Isometric Ground Grid -->
+  <g class="grid">
+    <line x1="150" y1="260" x2="450" y2="110" class="grid-line" />
+    <line x1="450" y1="260" x2="150" y2="110" class="grid-line" />
+    <line x1="170" y1="250" x2="470" y2="100" class="grid-line" />
+    <line x1="430" y1="250" x2="130" y2="100" class="grid-line" />
+    <line x1="190" y1="240" x2="490" y2="90" class="grid-line" />
+    <line x1="410" y1="240" x2="110" y2="90" class="grid-line" />
+    <line x1="210" y1="230" x2="510" y2="80" class="grid-line" />
+    <line x1="390" y1="230" x2="90" y2="80" class="grid-line" />
+    <line x1="230" y1="220" x2="530" y2="70" class="grid-line" />
+    <line x1="370" y1="220" x2="70" y2="70" class="grid-line" />
+  </g>
+
+  <!-- 3D Bar for C (40.0%) -->
+  <g class="bar-group" style="transform-origin: 130px 218px;">
+    <path d="M 114.4,183.0 L 114.4,226.0 L 130.0,235.0 L 130.0,192.0 Z" fill="#C72246" />
+    <path d="M 130.0,192.0 L 130.0,235.0 L 145.6,226.0 L 145.6,183.0 Z" fill="#E83A60" />
+    <path d="M 130.0,149.0 L 114.4,183.0 L 130.0,192.0 L 145.6,183.0 Z" fill="#FF7392" />
+  </g>
+  <g>
+    <text x="130" y="137" text-anchor="middle" class="label-text">C</text>
+    <text x="130" y="148" text-anchor="middle" class="percentage-text">40.0%</text>
+    <line x1="130" y1="149" x2="130" y2="150" stroke="#FF4B72" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+  </g>
+
+  <!-- 3D Bar for Python (30.0%) -->
+  <g class="bar-group" style="transform-origin: 210px 198px;">
+    <path d="M 194.4,180.5 L 194.4,213.5 L 210.0,222.5 L 210.0,189.5 Z" fill="#1E9D7A" />
+    <path d="M 210.0,189.5 L 210.0,222.5 L 225.6,213.5 L 225.6,180.5 Z" fill="#28BFA3" />
+    <path d="M 210.0,156.5 L 194.4,180.5 L 210.0,189.5 L 225.6,180.5 Z" fill="#4DF5C9" />
+  </g>
+  <g>
+    <text x="210" y="144" text-anchor="middle" class="label-text">Python</text>
+    <text x="210" y="155" text-anchor="middle" class="percentage-text">30.0%</text>
+    <line x1="210" y1="156" x2="210" y2="157" stroke="#35E2B5" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+  </g>
+
+  <!-- 3D Bar for C++ (15.0%) -->
+  <g class="bar-group" style="transform-origin: 290px 178px;">
+    <path d="M 274.4,175.0 L 274.4,191.0 L 290.0,200.0 L 290.0,184.0 Z" fill="#D15C71" />
+    <path d="M 290.0,184.0 L 290.0,200.0 L 305.6,191.0 L 305.6,175.0 Z" fill="#E8748A" />
+    <path d="M 290.0,168.0 L 274.4,175.0 L 290.0,184.0 L 305.6,175.0 Z" fill="#FFAEBF" />
+  </g>
+  <g>
+    <text x="290" y="156" text-anchor="middle" class="label-text">C++</text>
+    <text x="290" y="167" text-anchor="middle" class="percentage-text">15.0%</text>
+    <line x1="290" y1="168" x2="290" y2="169" stroke="#FF8DA1" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+  </g>
+
+  <!-- 3D Bar for TypeScript (10.0%) -->
+  <g class="bar-group" style="transform-origin: 370px 158px;">
+    <path d="M 354.4,166.5 L 354.4,177.5 L 370.0,186.5 L 370.0,175.5 Z" fill="#6D28D9" />
+    <path d="M 370.0,175.5 L 370.0,186.5 L 385.6,177.5 L 385.6,166.5 Z" fill="#8B5CF6" />
+    <path d="M 370.0,164.5 L 354.4,166.5 L 370.0,175.5 L 385.6,166.5 Z" fill="#C084FC" />
+  </g>
+  <g>
+    <text x="370" y="152" text-anchor="middle" class="label-text">TypeScript</text>
+    <text x="370" y="163" text-anchor="middle" class="percentage-text">10.0%</text>
+    <line x1="370" y1="164" x2="370" y2="165" stroke="#A78BFA" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+  </g>
+
+  <!-- 3D Bar for Assembly (5.0%) -->
+  <g class="bar-group" style="transform-origin: 450px 138px;">
+    <path d="M 434.4,154.0 L 434.4,159.0 L 450.0,168.0 L 450.0,163.0 Z" fill="#B45309" />
+    <path d="M 450.0,163.0 L 450.0,168.0 L 465.6,159.0 L 465.6,154.0 Z" fill="#D97706" />
+    <path d="M 450.0,152.0 L 434.4,154.0 L 450.0,163.0 L 465.6,154.0 Z" fill="#FDE047" />
+  </g>
+  <g>
+    <text x="450" y="140" text-anchor="middle" class="label-text">Assembly</text>
+    <text x="450" y="151" text-anchor="middle" class="percentage-text">5.0%</text>
+    <line x1="450" y1="152" x2="450" y2="153" stroke="#FBBF24" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+  </g>
+</svg>
