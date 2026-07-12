@@ -51,7 +51,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="middle">
-        <h2>🌸 <b>I also love anime!</b> ⚡</h2>
+        <h2>🌸 <b>Anime &amp; Manga/Manhwa fan on breaks</b> ⚡</h2>
       </td>
       <td align="right" width="280">
         <a href="https://github.com/allanabtech">
@@ -69,42 +69,42 @@
     <tr>
       <td width="28%" valign="middle"><b>Programming Languages</b></td>
       <td>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /></a>
-        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
-        <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" /></a>
-        <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" /></a>
-        <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-%231E293B.svg?style=flat-square&logo=microchip&logoColor=white" /></a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="20" /></a>
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="20" /></a>
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="20" /></a>
+        <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" height="20" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-%231E293B.svg?style=flat-square&logo=microchip&logoColor=white" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td valign="middle"><b>Hardware & Embedded Systems</b></td>
       <td>
-        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-%2303234B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" /></a>
-        <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" /></a>
-        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" /></a>
-        <a href="https://en.wikipedia.org/wiki/Serial_communication"><img src="https://img.shields.io/badge/Bus_Protocols-I2C%20%7C%20SPI%20%7C%20UART-%231E293B.svg?style=flat-square" /></a>
-        <a href="https://en.wikipedia.org/wiki/General-purpose_input/output"><img src="https://img.shields.io/badge/GPIO-Hardware_Logic-%231E293B.svg?style=flat-square" /></a>
+        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-%2303234B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" height="20" /></a>
+        <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="20" /></a>
+        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/Serial_communication"><img src="https://img.shields.io/badge/Bus_Protocols-I2C%20%7C%20SPI%20%7C%20UART-%231E293B.svg?style=flat-square" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/General-purpose_input/output"><img src="https://img.shields.io/badge/GPIO-Hardware_Logic-%231E293B.svg?style=flat-square" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td valign="middle"><b>Cloud & DevOps Automation</b></td>
       <td>
-        <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white" /></a>
-        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" /></a>
-        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" /></a>
-        <a href="https://en.wikipedia.org/wiki/CI/CD"><img src="https://img.shields.io/badge/CI/CD-Pipelines-%23A78BFA.svg?style=flat-square&logo=git&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white" height="20" /></a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" height="20" /></a>
+        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/CI/CD"><img src="https://img.shields.io/badge/CI/CD-Pipelines-%23A78BFA.svg?style=flat-square&logo=git&logoColor=white" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td valign="middle"><b>AI & Computer Vision</b></td>
       <td>
-        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" /></a>
-        <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" /></a>
-        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" /></a>
-        <a href="https://en.wikipedia.org/wiki/Quantization_(signal_processing)"><img src="https://img.shields.io/badge/Optimization-Quantization-%231E293B.svg?style=flat-square" /></a>
-        <a href="https://en.wikipedia.org/wiki/Kalman_filter"><img src="https://img.shields.io/badge/Filters-Kalman_Filters-%231E293B.svg?style=flat-square" /></a>
+        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" height="20" /></a>
+        <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white" height="20" /></a>
+        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/Quantization_(signal_processing)"><img src="https://img.shields.io/badge/Optimization-Quantization-%231E293B.svg?style=flat-square" height="20" /></a>
+        <a href="https://en.wikipedia.org/wiki/Kalman_filter"><img src="https://img.shields.io/badge/Filters-Kalman_Filters-%231E293B.svg?style=flat-square" height="20" /></a>
       </td>
     </tr>
   </table>
