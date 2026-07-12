@@ -40,11 +40,11 @@
 <details open> 
   <summary><h2>🧑‍💻 About Me</h2></summary>
 
-  I am a Software Engineer based in Bangalore, India. I specialize in building at the intersection of hardware and software—developing custom embedded firmware, configuring cloud infrastructure, and deploying machine learning models to edge devices. 
+  I am a software and hardware enthusiast based in Bangalore, India. I love building things at the intersection of bits and atoms—whether that means writing custom embedded firmware, setting up cloud servers, or getting machine learning models to run efficiently on edge devices. 
 
-  I enjoy taking things apart to understand what happens beneath the abstraction layer. Whether it's optimization of low-level ISR latencies, hardware modding, or debugging memory drift on microcontrollers, I build systems by understanding their limits.
+  I have a habit of taking things apart to understand how they function under the hood. I enjoy optimizing low-level code, playing around with hardware mods, and troubleshooting tricky memory bugs.
   
-  If you have a challenging problem or a system that needs optimizing, feel free to reach out via my portfolio or LinkedIn!
+  If you want to collaborate on a project, chat about systems, or just exchange memes, feel free to drop me a message on LinkedIn or through my portfolio!
   
   <br/>
   
