@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED NAME HEADER -->
-<img src="https://raw.githubusercontent.com/allanabtech/allanabtech/main/name.svg" alt="Allan Abraham" />
+<!-- CAPSULE ANIMATED GRADIENT HEADER -->
+<a href="https://github.com/allanabtech">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D080B,3A1024,D11A5B,FF4B72&height=220&section=header&text=Allan%20Abraham&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20Systems&descAlignY=62&descColor=FF8DA1&descSize=18" alt="Allan Abraham Header" />
+</a>
 
 &nbsp;
 
@@ -10,29 +12,22 @@
 
 &nbsp;
 
-<!-- SWYX-STYLE SINGLE-LINE NAVIGATION MENU -->
+<!-- SOCIAL CONTACT BADGES -->
 <p align="center">
-  <a href="https://allan-portfolio-five.vercel.app">Portfolio Website</a> &nbsp;•&nbsp; 
-  <a href="https://www.linkedin.com/in/abrahamallan">LinkedIn</a> &nbsp;•&nbsp; 
-  <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">Total Stars</a> &nbsp;•&nbsp; 
-  <a href="https://github.com/allanabtech?tab=followers">Followers</a> &nbsp;•&nbsp; 
-  <a href="https://github.com/allanabtech">Profile Views</a>
-</p>
-
-&nbsp;
-
-<!-- QUICK METRICS ROW (CHERRY PINK BADGES) -->
-<p align="center">
-  <a href="https://github.com/allanabtech?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://img.shields.io/github/stars/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=github&logoColor=white&label=Stars" />
+  <a href="https://allan-portfolio-five.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B72?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
-  <a href="https://github.com/allanabtech?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/allanabtech?color=FF4B72&labelColor=D11A5B&style=flat-square&logo=github&logoColor=white&label=Followers" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abrahamallan">
+    <img src="https://img.shields.io/badge/LinkedIn-D11A5B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://github.com/allanabtech">
-    <img alt="views" src="https://komarev.com/ghpvc/?username=allanabtech&style=flat-square&color=ff4b72" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/allanabtech">
+    <img src="https://img.shields.io/badge/Instagram-FF4B72?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:allanabraham271299@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D11A5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -115,44 +110,3 @@
   </table>
 </details>
 
-<details open>
-  <summary><h2>📈 GitHub Statistics</h2></summary>
-  
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=allanabtech&show_icons=true&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's GitHub Stats" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=allanabtech&layout=compact&theme=react&bg_color=0D080B&title_color=FF4B72&text_color=E2E8F0&icon_color=FF8DA1&hide_border=true" alt="Allan's Top Languages" />
-    </a>
-  </p>
-
-  &nbsp;
-
-  <!-- CONTRIBUTION GRAPH -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=allanabtech&theme=github-compact" width="100%" alt="Contribution Graph" />
-  </p>
-
-  &nbsp;
-
-  <!-- SNAKE ANIMATION -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allanabtech/allanabtech/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanabtech/allanabtech/output/github-snake.svg" />
-      <img alt="contribution snake" src="https://raw.githubusercontent.com/allanabtech/allanabtech/output/github-snake.svg" width="100%" />
-    </picture>
-  </p>
-
-  &nbsp;
-
-  <!-- LIVE AUTO-UPDATED METRICS FOOTER -->
-  <p align="center">
-    <!-- STREAK_LINE_START -->
-    **Total Contributions: 25 &nbsp;·&nbsp; Current Streak: 1 &nbsp;·&nbsp; Longest Streak: 2**
-    <!-- STREAK_LINE_END -->
-  </p>
-
-</details>
