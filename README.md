@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-D11A5B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/allanabtech">
+  <a href="https://instagram.com/allanab.dream">
     <img src="https://img.shields.io/badge/Instagram-FF4B72?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
