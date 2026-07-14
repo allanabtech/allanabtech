@@ -12,6 +12,8 @@ jobs:
   generate:
     permissions:
       contents: write
+      issues: write
+      pull-requests: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -68,12 +70,18 @@ jobs:
         run: |
           python generate_chart.py
 
+      - name: Unlock GitHub Sidebar Badges
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python unlock_badges.py
+
       - name: Commit and Push README changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md languages-3d.svg generate_chart.py
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily contribution stats and 3D languages chart [skip ci]" && git push)
+          git add README.md languages-3d.svg generate_chart.py unlock_badges.py
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update stats and unlock badges [skip ci]" && git push)
 
       - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
