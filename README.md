@@ -120,13 +120,5 @@
   </p>
 </details>
 
-<details open>
-  <summary><h2>🏆 GitHub Achievements &amp; Medals</h2></summary>
-  
-  <p align="center">
-    <a href="https://github.com/allanabtech">
-      <img src="https://github-profile-trophy.vercel.app/?username=allanabtech&amp;theme=radical&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="Allan's GitHub Trophies" />
-    </a>
-  </p>
-</details>
+
 
