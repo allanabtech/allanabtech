@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Instagram-FF4B72?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=allanabraham271299@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=allanab.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D11A5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
