@@ -6,7 +6,8 @@ import math
 def fetch_top_languages():
     token = os.getenv("GITHUB_TOKEN")
     headers = {"User-Agent": "Mozilla/5.0"}
-    if token:
+    # Skip dummy tokens or repository-scoped GitHub Action tokens
+    if token and not token.startswith("github_pat_antigravity") and not token.startswith("ghs_"):
         headers["Authorization"] = f"token {token}"
         
     lang_bytes = {}
