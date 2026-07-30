@@ -24,35 +24,35 @@
 
   <g class="donut-group">
     <!-- Outer wall for TypeScript -->
-    <path d="M 200.0,80.0 A 110,60 0 0,1 228.2,198.0 L 228.2,213.0 A 110,60 0 0,0 200.0,95.0 Z" fill="#6D28D9" />
+    <path d="M 200.0,80.0 A 110,60 0 0,1 225.3,198.4 L 225.3,213.4 A 110,60 0 0,0 200.0,95.0 Z" fill="#6D28D9" />
     <!-- Inner wall for TypeScript -->
-    <path d="M 200.0,110.0 A 55,30 0 0,1 214.1,169.0 L 214.1,184.0 A 55,30 0 0,0 200.0,125.0 Z" fill="#6D28D9" opacity="0.6" />
+    <path d="M 200.0,110.0 A 55,30 0 0,1 212.6,169.2 L 212.6,184.2 A 55,30 0 0,0 200.0,125.0 Z" fill="#6D28D9" opacity="0.6" />
     <!-- Outer wall for Python -->
-    <path d="M 228.2,198.0 A 110,60 0 0,1 102.5,112.2 L 102.5,127.2 A 110,60 0 0,0 228.2,213.0 Z" fill="#1E9D7A" />
+    <path d="M 225.3,198.4 A 110,60 0 0,1 96.8,119.2 L 96.8,134.2 A 110,60 0 0,0 225.3,213.4 Z" fill="#1E9D7A" />
     <!-- Inner wall for Python -->
-    <path d="M 214.1,169.0 A 55,30 0 0,1 151.3,126.1 L 151.3,141.1 A 55,30 0 0,0 214.1,184.0 Z" fill="#1E9D7A" opacity="0.6" />
+    <path d="M 212.6,169.2 A 55,30 0 0,1 148.4,129.6 L 148.4,144.6 A 55,30 0 0,0 212.6,184.2 Z" fill="#1E9D7A" opacity="0.6" />
     <!-- Outer wall for Java -->
-    <path d="M 102.5,112.2 A 110,60 0 0,1 152.6,85.8 L 152.6,100.8 A 110,60 0 0,0 102.5,127.2 Z" fill="#C2410C" />
+    <path d="M 96.8,119.2 A 110,60 0 0,1 136.1,91.2 L 136.1,106.2 A 110,60 0 0,0 96.8,134.2 Z" fill="#C2410C" />
     <!-- Inner wall for Java -->
-    <path d="M 151.3,126.1 A 55,30 0 0,1 176.3,112.9 L 176.3,127.9 A 55,30 0 0,0 151.3,141.1 Z" fill="#C2410C" opacity="0.6" />
+    <path d="M 148.4,129.6 A 55,30 0 0,1 168.0,115.6 L 168.0,130.6 A 55,30 0 0,0 148.4,144.6 Z" fill="#C2410C" opacity="0.6" />
     <!-- Outer wall for HTML -->
-    <path d="M 152.6,85.8 A 110,60 0 0,1 188.2,80.3 L 188.2,95.3 A 110,60 0 0,0 152.6,100.8 Z" fill="#C72246" />
+    <path d="M 136.1,91.2 A 110,60 0 0,1 167.2,82.7 L 167.2,97.7 A 110,60 0 0,0 136.1,106.2 Z" fill="#C72246" />
     <!-- Inner wall for HTML -->
-    <path d="M 176.3,112.9 A 55,30 0 0,1 194.1,110.2 L 194.1,125.2 A 55,30 0 0,0 176.3,127.9 Z" fill="#C72246" opacity="0.6" />
-    <!-- Outer wall for CSS -->
-    <path d="M 188.2,80.3 A 110,60 0 0,1 198.6,80.0 L 198.6,95.0 A 110,60 0 0,0 188.2,95.3 Z" fill="#0369A1" />
-    <!-- Inner wall for CSS -->
-    <path d="M 194.1,110.2 A 55,30 0 0,1 199.3,110.0 L 199.3,125.0 A 55,30 0 0,0 194.1,125.2 Z" fill="#0369A1" opacity="0.6" />
+    <path d="M 168.0,115.6 A 55,30 0 0,1 183.6,111.4 L 183.6,126.4 A 55,30 0 0,0 168.0,130.6 Z" fill="#C72246" opacity="0.6" />
+    <!-- Outer wall for Rust -->
+    <path d="M 167.2,82.7 A 110,60 0 0,1 185.7,80.5 L 185.7,95.5 A 110,60 0 0,0 167.2,97.7 Z" fill="#475569" />
+    <!-- Inner wall for Rust -->
+    <path d="M 183.6,111.4 A 55,30 0 0,1 192.9,110.3 L 192.9,125.3 A 55,30 0 0,0 183.6,126.4 Z" fill="#475569" opacity="0.6" />
     <!-- Top face for TypeScript -->
-    <path d="M 200.0,80.0 A 110,60 0 0,1 228.2,198.0 L 214.1,169.0 A 55,30 0 0,0 200.0,110.0 Z" fill="#C084FC" stroke="#A78BFA" stroke-width="0.5" />
+    <path d="M 200.0,80.0 A 110,60 0 0,1 225.3,198.4 L 212.6,169.2 A 55,30 0 0,0 200.0,110.0 Z" fill="#C084FC" stroke="#A78BFA" stroke-width="0.5" />
     <!-- Top face for Python -->
-    <path d="M 228.2,198.0 A 110,60 0 0,1 102.5,112.2 L 151.3,126.1 A 55,30 0 0,0 214.1,169.0 Z" fill="#4DF5C9" stroke="#35E2B5" stroke-width="0.5" />
+    <path d="M 225.3,198.4 A 110,60 0 0,1 96.8,119.2 L 148.4,129.6 A 55,30 0 0,0 212.6,169.2 Z" fill="#4DF5C9" stroke="#35E2B5" stroke-width="0.5" />
     <!-- Top face for Java -->
-    <path d="M 102.5,112.2 A 110,60 0 0,1 152.6,85.8 L 176.3,112.9 A 55,30 0 0,0 151.3,126.1 Z" fill="#FDBA74" stroke="#FB923C" stroke-width="0.5" />
+    <path d="M 96.8,119.2 A 110,60 0 0,1 136.1,91.2 L 168.0,115.6 A 55,30 0 0,0 148.4,129.6 Z" fill="#FDBA74" stroke="#FB923C" stroke-width="0.5" />
     <!-- Top face for HTML -->
-    <path d="M 152.6,85.8 A 110,60 0 0,1 188.2,80.3 L 194.1,110.2 A 55,30 0 0,0 176.3,112.9 Z" fill="#FF7392" stroke="#FF4B72" stroke-width="0.5" />
-    <!-- Top face for CSS -->
-    <path d="M 188.2,80.3 A 110,60 0 0,1 198.6,80.0 L 199.3,110.0 A 55,30 0 0,0 194.1,110.2 Z" fill="#7DD3FC" stroke="#38BDF8" stroke-width="0.5" />
+    <path d="M 136.1,91.2 A 110,60 0 0,1 167.2,82.7 L 183.6,111.4 A 55,30 0 0,0 168.0,115.6 Z" fill="#FF7392" stroke="#FF4B72" stroke-width="0.5" />
+    <!-- Top face for Rust -->
+    <path d="M 167.2,82.7 A 110,60 0 0,1 185.7,80.5 L 192.9,110.3 A 55,30 0 0,0 183.6,111.4 Z" fill="#CBD5E1" stroke="#94A3B8" stroke-width="0.5" />
   </g>
 
   <!-- Legend Section on the Right -->
@@ -61,27 +61,27 @@
     <!-- Legend Item 1: TypeScript -->
     <rect x="0" y="14" width="12" height="12" rx="3" fill="#A78BFA" />
     <text x="22" y="0" class="legend-text" transform="translate(0, 24)">
-      TypeScript <tspan class="legend-pct">  45.9%</tspan>
+      TypeScript <tspan class="legend-pct">  46.3%</tspan>
     </text>
     <!-- Legend Item 2: Python -->
     <rect x="0" y="44" width="12" height="12" rx="3" fill="#35E2B5" />
     <text x="22" y="0" class="legend-text" transform="translate(0, 54)">
-      Python <tspan class="legend-pct">  36.8%</tspan>
+      Python <tspan class="legend-pct">  34.3%</tspan>
     </text>
     <!-- Legend Item 3: Java -->
     <rect x="0" y="74" width="12" height="12" rx="3" fill="#FB923C" />
     <text x="22" y="0" class="legend-text" transform="translate(0, 84)">
-      Java <tspan class="legend-pct">  10.2%</tspan>
+      Java <tspan class="legend-pct">  9.5%</tspan>
     </text>
     <!-- Legend Item 4: HTML -->
     <rect x="0" y="104" width="12" height="12" rx="3" fill="#FF4B72" />
     <text x="22" y="0" class="legend-text" transform="translate(0, 114)">
-      HTML <tspan class="legend-pct">  5.4%</tspan>
+      HTML <tspan class="legend-pct">  5.0%</tspan>
     </text>
-    <!-- Legend Item 5: CSS -->
-    <rect x="0" y="134" width="12" height="12" rx="3" fill="#38BDF8" />
+    <!-- Legend Item 5: Rust -->
+    <rect x="0" y="134" width="12" height="12" rx="3" fill="#94A3B8" />
     <text x="22" y="0" class="legend-text" transform="translate(0, 144)">
-      CSS <tspan class="legend-pct">  1.5%</tspan>
+      Rust <tspan class="legend-pct">  2.8%</tspan>
     </text>
   </g>
 </svg>
